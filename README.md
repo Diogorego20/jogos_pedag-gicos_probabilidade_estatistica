@@ -187,7 +187,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 📞 Contato
 
 **Diogo Da Silva Rego**
-- Instagram: [@estatisticacomjogos](https://www.instagram.com/estatisticacomjogos/)
+- Instagram: [@Diogorego26)
 - GitHub: [Diogorego20](https://github.com/Diogorego20)
 - Projeto: [projetos_educacionais](https://github.com/Diogorego20/projetos_educacionais.git)
 
